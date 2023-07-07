@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "description": "Powerful mobile device with advanced features.",
+    "price": 599.99
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "description": "Portable computer with high performance capabilities.",
+    "price": 1299.99
+  },
+  {
+    "id": 3,
+    "name": "Smart TV",
+    "description": "Internet-connected television with streaming capabilities.",
+    "price": 799.99
+  },
+  {
+    "id": 4,
+    "name": "Wireless Earbuds",
+    "description": "Bluetooth earphones for a wire-free listening experience.",
+    "price": 149.99
+  },
+  {
+    "id": 5,
+    "name": "Gaming Console",
+    "description": "Video game console for immersive gaming experiences.",
+    "price": 399.99
+  }
+]
